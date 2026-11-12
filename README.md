@@ -14,6 +14,17 @@ This is an Android/Venus adaptation of the color palette and visual direction in
 
 The theme is intentionally dark across Discord's dark, light, midnight and darker appearance slots.
 
+## Theme variants
+
+Two color interpretations are available:
+
+- **Original** — `theme-original.json`: closer to the desktop theme's original palette and contrast: black surfaces, cyan text, red primary accents, blue muted text, purple links and yellow active states.
+- **Night City** — `theme.json`: a more atmospheric mobile adaptation with layered charcoal/navy surfaces.
+
+To install the Original variant, use:
+
+`https://raw.githubusercontent.com/47tsai/dc-cyberpunk-theme-mb/main/theme-original.json`
+
 ## Install
 
 1. Open **Venus Settings** in Discord.
